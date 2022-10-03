@@ -22,7 +22,7 @@ variable "web_key_name" {
 #  Security Group
 #////////////////////////////////
 
-resource "aws_security_group" "prod_web2" {
+resource "aws_security_group" "prod_web" {
   name        = "prod-web2"
   description = "Allow standard http and https ports inbount and everything outbound"
 
@@ -58,11 +58,11 @@ resource "aws_security_group" "prod_web2" {
 #//////////////////////////////
 #       resouce ec2
 #//////////////////////////////
-resource "aws_instance" "jenkins" {
- name            = "prod_web"
-  image_id        = "ami-096f7a9ab885b50f4"
+resource "aws_instance" "prod_web" {
+
+  ami             = "ami-096f7a9ab885b50f4"
   instance_type   = "t2.micro"
-  security_groups = [aws_security_group.prod_web2.id]
+  security_groups = [aws_security_group.prod_web.id]
   key_name        = "Demo"
   user_data       = <<-EOF
 #!/bin/bash
