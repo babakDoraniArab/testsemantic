@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/babakDoraniArab/testsemantic/compare/1.1.2...1.1.3) (2022-10-04)
+
+
+### Performance Improvements
+
+* **pencil:** remove graphiteWidth option ([6d9d0e5](https://github.com/babakDoraniArab/testsemantic/commit/6d9d0e57e7b8441b84e730ad51199784fd8fafd8))
+
 ## [1.1.2](https://github.com/babakDoraniArab/testsemantic/compare/1.1.1...1.1.2) (2022-10-04)
 
 
