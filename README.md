@@ -20,6 +20,8 @@ feat(terraform): add 'a new resource' option
 
 perf(pencil): remove graphiteWidth option
 
+
+
 ## Breaking Release (Major)
 you have two option here!
 BREAKING CHANGE: The graphiteWidth option has been removed.
