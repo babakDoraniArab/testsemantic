@@ -4,10 +4,12 @@ we are following semantic release rules for our tags and it's easy to follow jus
 
 ## Bug Fix Release (Patch)
 
-fix(pencil): stop graphite breaking when too much pressure applied
-fix: if you fixed a bug so just make your comment as a fix `fix: I fixed a token key`
+if you want to change something and that is just a bug fix you can go for this option 
+
+fix: if you fixed a bug so just make your comment as a fix `fix(pencil): I fixed a token key`
 
 ## Performance Improvements (Patch)
+if you have some really minor change like, refactoring you can go for this option
 
 perf(pencil): remove graphiteWidth option
 
