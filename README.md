@@ -2,10 +2,14 @@
 
 we are following semantic release rules for our tags and it's easy to follow just write your commit exactly like example below
 
-## Fix Release (Patch)
+## Bug Fix Release (Patch)
 
 fix(pencil): stop graphite breaking when too much pressure applied
 fix: if you fixed a bug so just make your comment as a fix `fix: I fixed a token key`
+
+## Performance Improvements (Patch)
+
+perf(pencil): remove graphiteWidth option
 
 ## Feature Release (Minor)
 
@@ -19,7 +23,6 @@ you have two option here!
 BREAKING CHANGE: The graphiteWidth option has been removed.
 The default graphite width of 10mm is always used for performance reasons.
 
-perf(pencil): remove graphiteWidth option
 
 
 
