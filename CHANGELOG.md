@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/babakDoraniArab/testsemantic/compare/1.0.2...1.1.0) (2022-10-04)
+
+
+### Features
+
+* **terraform:** add 'a new resource' option ([ed26f41](https://github.com/babakDoraniArab/testsemantic/commit/ed26f41a567d92aa7f2fbc112da1547851a4e0ec))
+
 ## [1.0.2](https://github.com/babakDoraniArab/testsemantic/compare/1.0.1...1.0.2) (2022-10-04)
 
 
