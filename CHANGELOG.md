@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/babakDoraniArab/testsemantic/compare/1.1.1...1.1.2) (2022-10-04)
+
+
+### Performance Improvements
+
+* **terraform:** new file added ([5d45b21](https://github.com/babakDoraniArab/testsemantic/commit/5d45b2121ba620c947090a0fda4d5a55aac0d478))
+
 ## [1.1.1](https://github.com/babakDoraniArab/testsemantic/compare/1.1.0...1.1.1) (2022-10-04)
 
 
