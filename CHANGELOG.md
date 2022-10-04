@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/babakDoraniArab/testsemantic/compare/1.0.0...1.0.1) (2022-10-04)
+
+
+### Bug Fixes
+
+* update on doc ([cb37f14](https://github.com/babakDoraniArab/testsemantic/commit/cb37f14ebf62d04483e5a848241722afcbb1d001))
+
 yes# 1.0.0 (2022-10-04)
 
 
