@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/babakDoraniArab/testsemantic/compare/1.1.0...1.1.1) (2022-10-04)
+
+
+### Performance Improvements
+
+* **terraform:** add 'a new resource' option ([77927e7](https://github.com/babakDoraniArab/testsemantic/commit/77927e7297569272a42bd62be54ff33fd6ecc88f))
+
 # [1.1.0](https://github.com/babakDoraniArab/testsemantic/compare/1.0.2...1.1.0) (2022-10-04)
 
 
