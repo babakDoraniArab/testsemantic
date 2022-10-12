@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/babakDoraniArab/testsemantic/compare/1.1.3...2.0.0) (2022-10-04)
+
+
+### Performance Improvements
+
+* **pencil:** remove graphiteWidth option ([6e78b11](https://github.com/babakDoraniArab/testsemantic/commit/6e78b11a969a0c613e35fc3f016d8250e52a347a))
+
+
+### BREAKING CHANGES
+
+* **pencil:** The graphiteWidth option has been removed.
+The default graphite width of 10mm is always used for performance reasons.
+
 ## [1.1.3](https://github.com/babakDoraniArab/testsemantic/compare/1.1.2...1.1.3) (2022-10-04)
 
 
