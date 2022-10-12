@@ -1,5 +1,10 @@
 {
-  
+  "tagFormat": "${version}",
+  "branches": [
+    "+([0-9])?(.{+([0-9]),x}).x",
+    "master",
+    "main"
+  ],
   "plugins": [
     [
       "@semantic-release/commit-analyzer",
