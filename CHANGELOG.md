@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/babakDoraniArab/testsemantic/compare/3.0.0...3.1.0) (2022-10-12)
+
+
+### Features
+
+* git1 ([028e700](https://github.com/babakDoraniArab/testsemantic/commit/028e7001d8ea2955f8514e8b8f8316e119e9422c))
+
 # [3.0.0](https://github.com/babakDoraniArab/testsemantic/compare/2.0.0...3.0.0) (2022-10-12)
 
 
