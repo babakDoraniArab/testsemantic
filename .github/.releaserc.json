@@ -1,6 +1,5 @@
 {
-  "tagFormat": "${version}",
-  "branches": ["+([0-9])?(.{+([0-9]),x}).x", "master", "main"],
+  
   "plugins": [
     [
       "@semantic-release/commit-analyzer",
@@ -14,6 +13,26 @@
         ]
       }
     ],
+    "@semantic-release/release-notes-generator",
+    "@semantic-release/changelog",
+    "@semantic-release/github",
+    [
+      "@semantic-release/git",
+      {
+        "assets": ["CHANGELOG.md"]
+      }
+    ]
+  ]
+}
+
+{
+  "tagFormat": "${version}",
+  "branches": ["+([0-9])?(.{+([0-9]),x}).x", "master", "main"],
+  "plugins": [
+    ["@semantic-release/commit-analyzer", {
+      "preset": "angular",
+      "releaseRules": "./config/release-rules.js"
+    }],
     "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
     "@semantic-release/github",
