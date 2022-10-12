@@ -83,7 +83,7 @@ rm -R testHtmlTemplate
 
   tags = {
     Terraform = "true"
-    Name      = "Jenkins"
+    Name      = "Jenkins2"
   }
 }
 
