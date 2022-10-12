@@ -1,3 +1,5 @@
+## [3.1.1](https://github.com/babakDoraniArab/testsemantic/compare/3.1.0...3.1.1) (2022-10-12)
+
 # [3.1.0](https://github.com/babakDoraniArab/testsemantic/compare/3.0.0...3.1.0) (2022-10-12)
 
 
